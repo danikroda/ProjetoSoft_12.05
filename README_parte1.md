@@ -11,6 +11,7 @@ Por que esse problema é relevante: É fundamental para garantir o cumprimento �
 
 O objetivo desta entrevista é compreender a rotina da psicóloga terceirizada na aplicação e análise das avaliações, mapeando como ela classifica os estágios dos trabalhadores. Busca-se entender as necessidades rigorosas de segurança da informação e os desafios atuais para manter o sigilo dos resultados completamente isolados do RH, garantindo que o novo sistema seja uma ferramenta de diagnóstico exclusiva e segura.
     Perguntas Abertas:
+    
               -Como você descreveria a importância de manter o sigilo absoluto das respostas e dos estágios dos funcionários em relação à       diretoria e ao RH da empresa contratante?
 
               -Quais critérios ou metodologias você utiliza hoje para avaliar as respostas dos formulários e definir em qual "estágio" psicológico o trabalhador se encontra?
